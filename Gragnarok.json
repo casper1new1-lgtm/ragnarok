@@ -92,6 +92,10 @@
 	{
       "name": "system/Core.dll",
       "url": "https://github.com/casper1new1-lgtm/ragnarok/raw/refs/heads/main/Core.dll"
+    },
+	{
+      "name": "StaticMeshes/LineageEffectsStaticmeshes2.usx",
+      "url": "https://github.com/casper1new1-lgtm/ragnarok/raw/refs/heads/main/LineageEffectsStaticmeshes2.usx"
     }
   ]
 
